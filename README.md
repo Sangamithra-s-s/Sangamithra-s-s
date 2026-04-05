@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:FFD93D,100:6BCB77&height=200&section=header&text=Sangamithra%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Security%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:FFD93D,100:6BCB77&height=200&section=header&text=Sangamithra S S%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Security%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
