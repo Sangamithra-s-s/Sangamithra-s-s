@@ -1,169 +1,235 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:a855f7,50:ec4899,100:f97316&height=220&section=header&text=Sangamithra%20S%20S&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=✦%20Frontend%20Developer%20✦%20UI%20Craftsperson%20✦%20Crypsia%20Creator%20✦&descAlignY=62&descSize=16&descColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:030d1a,100:001a0d&height=3&section=header"/>
+
+```
+███████╗ █████╗ ███╗   ██╗ ██████╗  █████╗ ███╗   ███╗██╗████████╗██╗  ██╗██████╗  █████╗
+██╔════╝██╔══██╗████╗  ██║██╔════╝ ██╔══██╗████╗ ████║██║╚══██╔══╝██║  ██║██╔══██╗██╔══██╗
+███████╗███████║██╔██╗ ██║██║  ███╗███████║██╔████╔██║██║   ██║   ███████║██████╔╝███████║
+╚════██║██╔══██║██║╚██╗██║██║   ██║██╔══██║██║╚██╔╝██║██║   ██║   ██╔══██║██╔══██╗██╔══██║
+███████║██║  ██║██║ ╚████║╚██████╔╝██║  ██║██║ ╚═╝ ██║██║   ██║   ██║  ██║██║  ██║██║  ██║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+                          ── S · S ──
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1200&color=00FFCC&center=true&vCenter=true&width=700&lines=%5BSYSTEM+ONLINE%5D+Initialising+profile...;%3E+Cyber+Security+Engineer+in+training;%3E+Hackathon+Finalist+%7C+Event+Winner+%7C+Builder;%3E+7+Projects+deployed+%7C+20%2B+Competitions;%3E+Currently+%40+RMKCET+%7C+CSE+%5BCyber+Security%5D;%3E+Turning+vulnerabilities+into+solutions_" />
 
 <br/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Sangamithra+S+S+%F0%9F%91%8B;I+craft+beautiful+user+interfaces+%E2%9C%A8;Creator+of+Crypsia+%F0%9F%94%90+Supply+Chain+Security;Turning+ideas+into+pixel-perfect+reality+%F0%9F%8E%A8" alt="Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/─────────────%20LINKEDIN%20─────────────-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangamithra-s-s-2013ab298)&nbsp;
+[![GitHub](https://img.shields.io/badge/─────────────%20GITHUB%20─────────────-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sangamithra-s-s)&nbsp;
+[![LeetCode](https://img.shields.io/badge/─────────────%20LEETCODE%20─────────────-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sara2k6/)&nbsp;
+[![Mail](https://img.shields.io/badge/─────────────%20CONTACT%20─────────────-00FFCC?style=for-the-badge&logo=gmail&logoColor=black)](mailto:sangamithrass2006.sm@gmail.com)
 
-<br/><br/>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=firefox-browser&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![GitHub followers](https://img.shields.io/github/followers/Sangamithra-s-s?label=Follow&style=for-the-badge&color=ec4899&logo=github)](https://github.com/Sangamithra-s-s)
+<br/>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  ACCESS GRANTED  ·  CLEARANCE LEVEL: STUDENT  ·  UNIT: RMKCET-CSE-CY-2028  ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║   NAME    ──  Sangamithra S S                                                ║
+║   ROLE    ──  Cyber Security Engineering Student                             ║
+║   STATUS  ──  4th Year  ·  Active Builder  ·  Open to Opportunities         ║
+║   MISSION ──  Secure, Intelligent, Human-Centred Digital Solutions           ║
+║                                                                              ║
+║   [ 7 Projects ]  [ 20+ Competitions ]  [ 3+ Event Wins ]  [ 2 Finals ]     ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+## `> whoami`
 
-### 👩‍💻 About Me
+<img align="right" width="260" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
-```js
-const sangamithra = {
-  name:     "Sangamithra S S",
-  role:     "Frontend Developer",
-  passion:  "Crafting beautiful UIs ✨",
-  flagship: "Crypsia 🔐",
-  techStack: ["HTML", "CSS", "JavaScript",
-              "React", "Java", "MySQL"],
-  currentlyBuilding: "Crypsia v1 🚀",
-  funFact: "I believe great UI = great UX 💜"
-};
+```python
+class Sangamithra:
+    name     = "Sangamithra S S"
+    degree   = "B.E. CSE (Cyber Security) @ RMKCET"
+    year     = "4th Year  ·  Batch 2024–2028"
+    
+    passions = [
+        "Ethical Hacking & Network Security",
+        "Building Secure Full-Stack Systems",
+        "Hackathons & Problem Solving",
+        "Blockchain & Emerging Tech",
+    ]
+    
+    achievements = {
+        "projects"   : 7,
+        "competitions": "20+",
+        "event_wins" : "3+",
+        "hktn_finals": 2,
+    }
+    
+    quote = """
+      Adaptable · Curious · Driven
+      I thrive where security meets innovation.
+    """
 ```
 
-- 🎨 I love building **stunning, responsive interfaces**
-- 🔐 Creator of **Crypsia** — my blockchain supply chain project
-- 🌱 Currently leveling up in **React & modern CSS**
-- 💡 I turn complex ideas into clean, intuitive designs
-- 🎯 Goal: Ship beautiful products that people love
+> Passionate Cyber Security student building **secure, intelligent, and impactful** digital solutions.
+> I explore emerging technologies, solve real-world problems through innovation, and love turning ideas
+> into meaningful projects — individually and in collaborative environments.
 
 <br clear="right"/>
 
 ---
 
-## 🔐 Crypsia — My Flagship Project
+## `> ls ./projects`
 
 <div align="center">
 
-> **A blockchain-powered supply chain security platform** — built to make product journeys transparent, traceable, and tamper-proof from source to shelf.
+| # | Project | Stack | Description |
+|:--|:--------|:------|:------------|
+| 🔐 | **[Crypsia](https://github.com/Sangamithra-s-s)** | `Blockchain` `Security` `Traceability` | Supply chain transparency via distributed ledger |
+| 🌐 | **TOR-Unveil** | `PCAP Analysis` `Tor` `Network` | Tor consensus & traffic monitoring for security research |
+| 🎓 | **EduRelief** | `Flask` `Security` `Platform Dev` | Secure student platform with doc verification & RBAC |
+| 🗣️ | **BharatScripts** | `NLP` `Python` `Language` | Indian script processing & transliteration tool |
+| 🌾 | **AgriConnect** | `IoT` `Agriculture` `Platform` | Smart farming with real-time soil & weather analytics |
+| ⛓️ | **TruthChain** | `Blockchain` `Web3` `Fact-Check` | Decentralised news credibility verification system |
+| 🌸 | **BloomFocus** | `Flutter` `AI` `Wellness` | AI-powered mental wellness & focus tracking app |
 
 </div>
+
+---
+
+## `> cat ./skills.json`
+
+<div align="center">
+
+### ⚔️ Cybersecurity
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-00FFCC?style=flat-square&logoColor=black)
+![Network Analysis](https://img.shields.io/badge/Network_Analysis-00FFCC?style=flat-square)
+![PCAP Analysis](https://img.shields.io/badge/PCAP_Analysis-00FFCC?style=flat-square)
+![Linux Security](https://img.shields.io/badge/Linux_Security-00FFCC?style=flat-square)
+![SSH Workflows](https://img.shields.io/badge/SSH_Workflows-00FFCC?style=flat-square)
+
+### 🛠️ Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 💻 Programming
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=bitcoin&logoColor=F7931A)
+
+</div>
+
+---
+
+## `> cat ./certifications.log`
 
 ```
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║   📦 Raw Material  ──►  🏭 Factory  ──►  🚚 Transit             ║
-  ║        │                    │                 │                  ║
-  ║        ▼                    ▼                 ▼                  ║
-  ║   🏪 Retailer  ◄──  📋 Verified  ◄──  🔗 On-Chain Record        ║
-  ║        │                                                         ║
-  ║        ▼                                                         ║
-  ║   🙋 Consumer scans QR → ✅ Authenticity Confirmed!             ║
-  ╚══════════════════════════════════════════════════════════════════╝
+[2025] ── Cloud Computing & Distributed Systems ────────── NPTEL · IIT
+[2025] ── National Cybersecurity Course ────────────────── IIT Kharagpur
+[2025] ── Foundations of Cybersecurity ─────────────────── Google
+[2025] ── Cyber Forensics Fundamentals ─────────────────── Great Learning
+[2024] ── Cybersecurity Specialization ─────────────────── EC-Council
+[2024] ── DSA in Python ─────────────────────────────────── Great Learning
+[2024] ── Blockchain Fundamentals ──────────────────────── Sololearn
+[2024] ── Responsive Web Design ────────────────────────── FreeCodeCamp
+[2024] ── JavaScript Basics ────────────────────────────── HackerRank
+[2024] ── Java Basics ──────────────────────────────────── HackerRank
 ```
 
+---
+
+## `> tail -f ./hackathons.log`
+
 <div align="center">
 
-| 🛡️ Immutable Records | 📱 QR Verification | 🚨 Fraud Detection | 📊 Live Tracking |
-|:---:|:---:|:---:|:---:|
-| Every step stored permanently on-chain | Instant scan-to-verify at any stage | Auto-alerts for counterfeit goods | Real-time supply chain visibility |
-
-[![View Crypsia](https://img.shields.io/badge/🔐%20Explore%20Crypsia-a855f7?style=for-the-badge)](https://github.com/Sangamithra-s-s/Sangamithra)
+| Status | Event | Org |
+|:------:|:------|:----|
+| 🥇 **WINNER** | Cognebula 2025 | Technical Fest |
+| 🥇 **WINNER** | Forensic Hunt | Cybersecurity CTF |
+| 🏁 **FINALIST** | HP Power Lab | Hewlett Packard |
+| 🏁 **FINALIST** | PEC Hacks | Panimalar Engg College |
+| ⚡ **FINALIST** | Asthra 2K25 | National Symposium |
+| 🚀 Participant | GDG Solution Challenge | Google Developer Groups |
+| 🚀 Participant | Adobe Hackathon | Adobe |
+| 🚀 Participant | AI Product Hackathon | AI Club |
+| 🚀 Participant | Hack to Future | Hackathon |
+| 🚀 Participant | Hackathon 360 | 360 Tech |
+| 🚀 Participant | Hero Campus Challenge | Hero MotoCorp |
+| 🚀 Participant | NeuroHack | BioTech Hackathon |
+| 🚀 Participant | Technocrats Hackathon | Technocrats Fest |
+| 🚀 Participant | Think Like a Designer | UI/UX Workshop |
+| 🚀 Participant | CodeClash | Coding Club |
+| 🚀 Participant | Saras AI | AI Training |
+| 📋 Developer | CodTech | Internship Program |
+| 📋 Intern | YHills | Training Program |
 
 </div>
 
 ---
 
-## 🎨 Tech Stack
+## `> git log --stat`
 
 <div align="center">
 
-### Frontend — My Playground
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sangamithra-s-s&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=010d09&title_color=00ffcc&icon_color=00ffaa&text_color=aaffee&ring_color=00ffcc" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamithra-s-s&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=010d09&title_color=00ffcc&text_color=aaffee" />
 
-### Backend & DB
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+<br/><br/>
 
-### Tools & Security
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=F7931A)
-![DSA](https://img.shields.io/badge/DSA-ec4899?style=for-the-badge&logo=leetcode&logoColor=white)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sangamithra-s-s&theme=dark&hide_border=true&background=010d09&ring=00ffcc&fire=00ff88&currStreakLabel=00ffcc&sideLabels=00ffcc&dates=aaffee&stroke=00ffcc20)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=Sangamithra-s-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=ec4899&text_color=c9d1d9" />
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamithra-s-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sangamithra-s-s&theme=tokyonight&hide_border=true&background=0D1117&ring=a855f7&fire=ec4899&currStreakLabel=f97316&sideLabels=a855f7)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sangamithra-s-s&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Crypsia Card](https://github-readme-stats.vercel.app/api/pin/?username=Sangamithra-s-s&repo=Sangamithra&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=ec4899)](https://github.com/Sangamithra-s-s/Sangamithra)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+## `> ./snake.sh`
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sangamithra-s-s/Sangamithra-s-s/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sangamithra-s-s/Sangamithra-s-s/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake" src="https://github.com/Sangamithra-s-s/Sangamithra-s-s/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://github.com/Sangamithra-s-s/Sangamithra-s-s/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
 
-## 💡 Currently
+## `> cat ./now.txt`
 
 <div align="center">
 
-| 🔭 Building | 📚 Learning | 🤝 Looking For |
-|:---|:---|:---|
-| **Crypsia** — blockchain supply chain app | Advanced React patterns & animations | Internship / frontend dev opportunities |
-| Polishing my **UI component library** | System design fundamentals | Cool open source projects to contribute to |
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   🔭  BUILDING    ──  BloomFocus  ·  TruthChain  ·  AgriConnect        │
+│   📚  LEARNING    ──  Advanced Network Security  ·  Web3  ·  Flutter    │
+│   🎯  SEEKING     ──  Internships  ·  Collabs  ·  Security Research     │
+│   💡  EXPLORING   ──  CTFs  ·  Open Source  ·  AI × Security           │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -171,12 +237,18 @@ const sangamithra = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:ec4899,100:a855f7&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:030d1a,100:001a0d&height=3&section=footer"/>
 
-![Profile Views](https://komainu8.github.io/github-profile-visitor-count/visitor.svg?page=Sangamithra-s-s&color=a855f7)
+```
+  ╔═══════════════════════════════════════════════════════════════╗
+  ║   "Security is not a product, but a process."  — Bruce Schneier  ║
+  ╚═══════════════════════════════════════════════════════════════╝
+```
 
-**✨ "Design is not just what it looks like — design is how it works." ✨**
+![Profile Views](https://komainu8.github.io/github-profile-visitor-count/visitor.svg?page=Sangamithra-s-s&color=00ffcc)
 
-*Open to frontend roles, internships & exciting collaborations!*
+**Open to internships · security research · hackathons · meaningful collabs**
+
+<sub>Built with 🖤 by Sangamithra S S · 2025</sub>
 
 </div>
