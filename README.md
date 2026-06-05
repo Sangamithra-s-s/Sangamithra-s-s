@@ -242,8 +242,8 @@ Focus  : Traffic Intelligence
 
 ### 📜 VERIFIED CERTIFICATES
 
-![Google](https://img.shields.io/badge/Google-Cybersecurity-00ffcc?style=for-the-badge)
-![IIT Kharagpur](https://img.shields.io/badge/IIT_Kharagpur-Cybersecurity-00ffcc?style=for-the-badge)
+![Google](https://img.shields.io/badge/Google-Cybersecurity-00A86B?style=for-the-badge)
+![IIT Kharagpur](https://img.shields.io/badge/IIT_Kharagpur-Cybersecurity-00C853?style=for-the-badge)
 ![NPTEL](https://img.shields.io/badge/NPTEL-Cloud_Computing-00ffcc?style=for-the-badge)
 
 
