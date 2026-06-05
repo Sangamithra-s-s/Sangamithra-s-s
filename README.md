@@ -192,7 +192,7 @@ Focus  : Traffic Intelligence
 
 <div align="center">
 
-[![View All Projects](https://img.shields.io/badge/VIEW_ALL_PROJECTS-00ffcc?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sangamithra-s-s?tab=repositories)
+[![View All Projects](https://img.shields.io/badge/VIEW_ALL_PROJECTS-00B894?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sangamithra-s-s?tab=repositories)
 
 </div>
 
@@ -242,23 +242,23 @@ Focus  : Traffic Intelligence
 
 ### 📜 VERIFIED CERTIFICATES
 
-![Google](https://img.shields.io/badge/Google-Cybersecurity-00A86B?style=for-the-badge)
-![IIT Kharagpur](https://img.shields.io/badge/IIT_Kharagpur-Cybersecurity-00C853?style=for-the-badge)
-![NPTEL](https://img.shields.io/badge/NPTEL-Cloud_Computing-00ffcc?style=for-the-badge)
+![Google](https://img.shields.io/badge/Google-Cybersecurity-00B894?style=for-the-badge)
+![IIT Kharagpur](https://img.shields.io/badge/IIT_Kharagpur-Cybersecurity-00B894?style=for-the-badge)
+![NPTEL](https://img.shields.io/badge/NPTEL-Cloud_Computing-00B894?style=for-the-badge)
 
 
 <br><br>
 
-![Great Learning](https://img.shields.io/badge/Great_Learning-Cyber_Forensics-00ffcc?style=for-the-badge)
-![Great Learning](https://img.shields.io/badge/Great_Learning-DSA_Python-00ffcc?style=for-the-badge)
-![Sololearn](https://img.shields.io/badge/Sololearn-Blockchain-00ffcc?style=for-the-badge)
-![Sololearn](https://img.shields.io/badge/Sololearn-SQL-00ffcc?style=for-the-badge)
+![Great Learning](https://img.shields.io/badge/Great_Learning-Cyber_Forensics-00B894?style=for-the-badge)
+![Great Learning](https://img.shields.io/badge/Great_Learning-DSA_Python-00B894?style=for-the-badge)
+![Sololearn](https://img.shields.io/badge/Sololearn-Blockchain-00B894?style=for-the-badge)
+![Sololearn](https://img.shields.io/badge/Sololearn-SQL-00B894?style=for-the-badge)
 
 <br><br>
 
-![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Responsive_Web_Design-00ffcc?style=for-the-badge)
-![HackerRank](https://img.shields.io/badge/HackerRank-JavaScript-00ffcc?style=for-the-badge)
-![HackerRank](https://img.shields.io/badge/HackerRank-Java-00ffcc?style=for-the-badge)
+![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Responsive_Web_Design-00B894?style=for-the-badge)
+![HackerRank](https://img.shields.io/badge/HackerRank-JavaScript-00B894?style=for-the-badge)
+![HackerRank](https://img.shields.io/badge/HackerRank-Java-00B894?style=for-the-badge)
 
 </div>
 
