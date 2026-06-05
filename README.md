@@ -98,7 +98,13 @@ class SangamithraSSS:
 
 ---
 
-## ◈ `ls -la ./arsenal`
+---
+
+<div align="center">
+
+<img width="500" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
+
+</div>
 
 ## ◈ `cat featured_projects.md`
 
@@ -106,83 +112,87 @@ class SangamithraSSS:
 
 # 🚀 FEATURED PROJECTS
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ ACTIVE PROJECTS                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+Building secure, intelligent, and impactful systems.
 
 </div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔐 CRYPSIA
 
-```text
-STATUS : DEPLOYED
-TYPE   : Blockchain Security
-GOAL   : Supply Chain Transparency
+**Blockchain-Powered Supply Chain Security**
+
+```yaml
+Status : Deployed
+Stack  : Blockchain · Security
+Focus  : Product Authenticity
 ```
 
-* Immutable ledger tracking
-* QR verification
-* Fraud prevention
-* Product authenticity validation
+- Immutable ledger tracking
+- QR verification
+- Fraud prevention
+- Supply-chain transparency
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⛓ TRUTHCHAIN
 
-```text
-STATUS : IN DEVELOPMENT
-TYPE   : Web3 + NLP
-GOAL   : Fight Misinformation
+**Decentralized Fact Verification Platform**
+
+```yaml
+Status : Active Development
+Stack  : Blockchain · NLP · Web3
+Focus  : Misinformation Detection
 ```
 
-* Decentralized fact verification
-* Blockchain-backed trust records
-* Credibility scoring
-* Transparent verification process
+- Decentralized fact verification
+- Blockchain-backed trust records
+- NLP-powered credibility scoring
+- Transparent verification process
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌸 BLOOMFOCUS
 
-```text
-STATUS : ACTIVE
-TYPE   : AI Wellness Platform
-GOAL   : Student Productivity
+**AI Productivity & Wellness Platform**
+
+```yaml
+Status : Active
+Stack  : Flutter · AI
+Focus  : Student Wellbeing
 ```
 
-* Focus analytics
-* Mood tracking
-* Productivity insights
-* Personalized recommendations
+- Mood tracking
+- Focus analytics
+- Productivity insights
+- Personalized recommendations
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 TOR-UNVEIL
 
-```text
-STATUS : RESEARCH
-TYPE   : Network Forensics
-GOAL   : Traffic Intelligence
+**Network Forensics & Traffic Analysis**
+
+```yaml
+Status : Research
+Stack  : Python · PCAP
+Focus  : Traffic Intelligence
 ```
 
-* Tor analysis
-* PCAP inspection
-* Security investigations
-* Traffic fingerprinting
+- Tor traffic inspection
+- PCAP analysis
+- Security investigations
+- Traffic fingerprinting
 
 </td>
 </tr>
@@ -190,30 +200,36 @@ GOAL   : Traffic Intelligence
 
 <div align="center">
 
-[![View Projects](https://img.shields.io/badge/VIEW_ALL_PROJECTS-00ffcc?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/Sangamithra-s-s?tab=repositories)
+[![View All Projects](https://img.shields.io/badge/VIEW_ALL_PROJECTS-00ffcc?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sangamithra-s-s?tab=repositories)
 
 </div>
 
 ---
+
+<div align="center">
+
+<img width="420" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+
+</div>
 
 ## ◈ `tail -f achievements.log`
 
 <div align="center">
 
 | 🏆 Competition Wins | ⭐ Hackathon Finals | 🚀 Projects Built | 🎯 Events |
-| :-----------------: | :----------------: | :---------------: | :-------: |
-|          3+         |          2         |         7         |    20+    |
+|:------------------:|:------------------:|:----------------:|:---------:|
+| 3+ | 2 | 7 | 20+ |
 
 </div>
 
 <br>
 
 ```text
-[WINNER]    Cognebula 2025
-[1ST PLACE] Forensic Hunt
-[FINALIST]  HP Power Lab
-[FINALIST]  PEC Hacks
-[FINALIST]  Asthra 2K25
+[WINNER]     Cognebula 2025
+[1ST PLACE]  Forensic Hunt CTF Championship
+[FINALIST]   HP Power Lab
+[FINALIST]   PEC Hacks
+[FINALIST]   Asthra 2K25
 ```
 
 ---
@@ -222,53 +238,53 @@ GOAL   : Traffic Intelligence
 
 <div align="center">
 
-### VERIFIED CERTIFICATIONS
+### 📜 VERIFIED CERTIFICATIONS
 
-![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-00ffcc?style=flat-square)
-![IIT Kharagpur](https://img.shields.io/badge/IIT_Kharagpur-National_Cybersecurity-00ffcc?style=flat-square)
-![NPTEL](https://img.shields.io/badge/NPTEL-Cloud_Computing-00ffcc?style=flat-square)
-![EC Council](https://img.shields.io/badge/EC--Council-Cybersecurity-00ffcc?style=flat-square)
-![Great Learning](https://img.shields.io/badge/Great_Learning-Cyber_Forensics-00ffcc?style=flat-square)
-![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Web_Design-00ffcc?style=flat-square)
+![Google](https://img.shields.io/badge/Google-Cybersecurity-00ffcc?style=for-the-badge)
+![IIT Kharagpur](https://img.shields.io/badge/IIT_Kharagpur-Cybersecurity-00ffcc?style=for-the-badge)
+![NPTEL](https://img.shields.io/badge/NPTEL-Cloud_Computing-00ffcc?style=for-the-badge)
+![EC Council](https://img.shields.io/badge/EC--Council-Cybersecurity-00ffcc?style=for-the-badge)
+
+<br><br>
+
+![Great Learning](https://img.shields.io/badge/Great_Learning-Cyber_Forensics-00ffcc?style=for-the-badge)
+![Great Learning](https://img.shields.io/badge/Great_Learning-DSA_Python-00ffcc?style=for-the-badge)
+![Sololearn](https://img.shields.io/badge/Sololearn-Blockchain-00ffcc?style=for-the-badge)
+![Sololearn](https://img.shields.io/badge/Sololearn-SQL-00ffcc?style=for-the-badge)
+
+<br><br>
+
+![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Responsive_Web_Design-00ffcc?style=for-the-badge)
+![HackerRank](https://img.shields.io/badge/HackerRank-JavaScript-00ffcc?style=for-the-badge)
+![HackerRank](https://img.shields.io/badge/HackerRank-Java-00ffcc?style=for-the-badge)
 
 </div>
 
 ---
-
-## ◈ `system_status`
 
 <div align="center">
 
-```text
-┌────────────────────────────────────────────┐
-│ CYBER SECURITY DASHBOARD                   │
-├────────────────────────────────────────────┤
-│ USER        : SANGAMITHRA_S_S              │
-│ ROLE        : SECURITY ENGINEER            │
-│ PROJECTS    : 7                            │
-│ EVENTS      : 20+                          │
-│ WINS        : 3+                           │
-│ STATUS      : OPEN_TO_OPPORTUNITIES        │
-└────────────────────────────────────────────┘
-```
+<img width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 </div>
-
----
 
 ## ◈ `git log --stat --oneline`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sangamithra-s-s&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=010d09&title_color=00ffcc&icon_color=00ff88&text_color=aaffee"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=Sangamithra-s-s&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=010d09&title_color=00ffcc&icon_color=00ff88&text_color=aaffee"/>
 
-  
+&nbsp;&nbsp;
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamithra-s-s&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=010d09&title_color=00ffcc&text_color=aaffee"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamithra-s-s&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=010d09&title_color=00ffcc&text_color=aaffee"/>
 
 <br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sangamithra-s-s\&theme=dark\&hide_border=true\&background=010d09\&ring=00ffcc\&fire=00ff88\&currStreakLabel=00ffcc)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sangamithra-s-s&theme=dark&hide_border=true&background=010d09&ring=00ffcc&fire=00ff88&currStreakLabel=00ffcc&sideLabels=00ffcc&dates=88ffcc)](https://git.io/streak-stats)
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sangamithra-s-s&theme=github-compact&bg_color=010d09&color=00ffcc&line=00ffcc&point=00ff88&hide_border=true"/>
 
 </div>
 
@@ -284,18 +300,20 @@ GOAL   : Traffic Intelligence
 ╠══════════════════════════════════════╣
 ║ ✓ Cyber Security Internships         ║
 ║ ✓ Research Collaborations            ║
-║ ✓ Open Source Projects               ║
-║ ✓ Hackathons                         ║
+║ ✓ Open Source Contributions          ║
+║ ✓ Hackathons & Innovation Challenges ║
 ╚══════════════════════════════════════╝
 ```
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ffcc?style=for-the-badge\&logo=linkedin\&logoColor=black)](https://www.linkedin.com/in/sangamithra-s-s-2013ab298)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00ffcc?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/sangamithra-s-s-2013ab298)
 
-[![GitHub](https://img.shields.io/badge/GitHub-00ffcc?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/Sangamithra-s-s)
+[![GitHub](https://img.shields.io/badge/GITHUB-00ffcc?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sangamithra-s-s)
 
-[![Email](https://img.shields.io/badge/Email-00ffcc?style=for-the-badge\&logo=gmail\&logoColor=black)](mailto:sangamithrass2006.sm@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-00ffcc?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sara2k6/)
+
+[![Email](https://img.shields.io/badge/EMAIL-00ffcc?style=for-the-badge&logo=gmail&logoColor=black)](mailto:sangamithrass2006.sm@gmail.com)
 
 </div>
 
@@ -303,13 +321,8 @@ GOAL   : Traffic Intelligence
 
 <div align="center">
 
-```text
-[ SYSTEM SHUTDOWN ]
-Connection closed successfully.
-
-Sangamithra S S © 2026
-```
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a0d,100:003322&height=120&section=footer"/>
+
+### ⚡ Security • Innovation • Collaboration
 
 </div>
