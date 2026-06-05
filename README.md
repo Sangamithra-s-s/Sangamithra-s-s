@@ -100,121 +100,113 @@ class SangamithraSSS:
 
 ## ◈ `ls -la ./arsenal`
 
+````md
+---
+
+## ◈ `cat featured_projects.md`
+
 <div align="center">
 
-### ⚔ Cyber Security
+# 🚀 Featured Projects
 
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-001a0d?style=for-the-badge&logoColor=00ffcc&labelColor=001a0d&color=003322)
-![Network Analysis](https://img.shields.io/badge/Network_Analysis-001a0d?style=for-the-badge&color=003322)
-![PCAP Analysis](https://img.shields.io/badge/PCAP_Analysis-001a0d?style=for-the-badge&color=003322)
-![Linux Security](https://img.shields.io/badge/Linux_Security-001a0d?style=for-the-badge&color=003322)
-![SSH Workflows](https://img.shields.io/badge/SSH_Workflows-001a0d?style=for-the-badge&color=003322)
-![Cryptography](https://img.shields.io/badge/Cryptography-001a0d?style=for-the-badge&color=003322)
+Building secure, intelligent, and impactful systems.
 
-### 🛠 Development Stack
+</div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 💻 Languages
+### 🔐 CRYPSIA
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**Blockchain-Powered Supply Chain Security**
 
-### 🔧 Tools & Platforms
+- Immutable product tracking
+- QR-based verification
+- Fraud prevention
+- Transparent supply-chain records
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+**Tech:** Blockchain · Security · Web
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⛓ TRUTHCHAIN
+
+**Decentralized Fact Verification Platform**
+
+- News credibility verification
+- Blockchain-backed records
+- NLP-powered analysis
+- Transparent trust scoring
+
+**Tech:** Blockchain · NLP · Web3
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌸 BLOOMFOCUS
+
+**AI Productivity & Wellness App**
+
+- Mood tracking
+- Focus analytics
+- Student wellbeing support
+- Personalized productivity insights
+
+**Tech:** Flutter · AI · Mobile
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 TOR-UNVEIL
+
+**Network Forensics & Traffic Analysis**
+
+- Tor traffic inspection
+- PCAP analysis
+- Network intelligence
+- Security research workflows
+
+**Tech:** Python · PCAP · Cybersecurity
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![View All Projects](https://img.shields.io/badge/View_All_Projects-00ffcc?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sangamithra-s-s?tab=repositories)
 
 </div>
 
 ---
 
-## ◈ `cat projects/README.md`
+## ◈ `tail -f achievements.log`
 
 <div align="center">
 
-> **7 projects built. Each one solves a real problem.**
-
-</div>
-
-```
-┌──────────────────────────────────────────────────────────────────────────────────┐
-│  #   PROJECT           STACK                          MISSION                    │
-├──────────────────────────────────────────────────────────────────────────────────┤
-│  01  🔐 CRYPSIA        Blockchain · Security          Supply chain transparency  │
-│      ──────────────────────────────────────────────────────────────────────────  │
-│      Immutable ledger tracking every product from source to shelf.               │
-│      QR scan-to-verify · Fraud detection · On-chain records                     │
-├──────────────────────────────────────────────────────────────────────────────────┤
-│  02  🌐 TOR-UNVEIL     PCAP · Tor · Network           Traffic forensics          │
-│      ──────────────────────────────────────────────────────────────────────────  │
-│      Tor consensus & PCAP analysis tool for deep network security research.      │
-├──────────────────────────────────────────────────────────────────────────────────┤
-│  03  🎓 EDURELIEF      Flask · Security · RBAC        Secure student support     │
-│      ──────────────────────────────────────────────────────────────────────────  │
-│      Document verification system with role-based access control.                │
-├──────────────────────────────────────────────────────────────────────────────────┤
-│  04  🗣 BHARATSCRIPTS  NLP · Python · Language        Digital inclusion          │
-│      ──────────────────────────────────────────────────────────────────────────  │
-│      Indian language script processing & transliteration engine.                 │
-├──────────────────────────────────────────────────────────────────────────────────┤
-│  05  🌾 AGRICONNECT    IoT · Platform · Data          Smart farming              │
-│      ──────────────────────────────────────────────────────────────────────────  │
-│      Real-time soil & weather analytics connecting farmers to data.              │
-├──────────────────────────────────────────────────────────────────────────────────┤
-│  06  ⛓ TRUTHCHAIN     Blockchain · Web3 · NLP        Fight misinformation       │
-│      ──────────────────────────────────────────────────────────────────────────  │
-│      Decentralised fact-checking — news credibility logged on-chain.             │
-├──────────────────────────────────────────────────────────────────────────────────┤
-│  07  🌸 BLOOMFOCUS     Flutter · AI · Wellness        Mental health tech         │
-│      ──────────────────────────────────────────────────────────────────────────  │
-│      AI-powered focus & mood tracking app for student wellbeing.                 │
-└──────────────────────────────────────────────────────────────────────────────────┘
-```
-
-[![View All Projects](https://img.shields.io/badge/◈%20View%20All%20Projects%20on%20GitHub-00ffcc?style=for-the-badge&logoColor=black)](https://github.com/Sangamithra-s-s)
-
----
-
-## ◈ `tail -f hackathons.log`
-
-<div align="center">
-
-```
-[TROPHY]  ★ Cognebula 2025 ─────────────── WINNER    │ Technical Fest
-[TROPHY]  ★ Forensic Hunt ──────────────── 1ST PLACE │ Technical Fest
-[FINAL]   ◈ HP Power Lab ───────────────── FINALIST  │ Hewlett Packard
-[FINAL]   ◈ PEC Hacks ──────────────────── FINALIST  │ Panimalar Engg College
-[FINAL]   ◈ Asthra 2K25 ────────────────── FINALIST  │ National Symposium
-──────────────────────────────────────────────────────────────────────────────
-[EVENT]   ▸ GDG Solution Challenge ──────── Google Developer Groups
-[EVENT]   ▸ Adobe Hackathon ─────────────── Adobe
-[EVENT]   ▸ AI Product Hackathon ────────── AI Club
-[EVENT]   ▸ Hack to Future ──────────────── Innovation Hackathon
-[EVENT]   ▸ Hackathon 360 ───────────────── 360 Tech
-[EVENT]   ▸ Hero Campus Challenge ───────── Hero MotoCorp
-[EVENT]   ▸ NeuroHack ───────────────────── BioTech Hackathon
-[EVENT]   ▸ Technocrats Hackathon ───────── Technocrats Fest
-[EVENT]   ▸ Think Like a Designer ───────── UI/UX Workshop
-[EVENT]   ▸ CodeClash ───────────────────── Coding Club
-[EVENT]   ▸ Saras AI ────────────────────── AI Training Program
-[EVENT]   ▸ CodTech ─────────────────────── Developer Internship
-[EVENT]   ▸ YHills ──────────────────────── Training Program
-[EVENT]   ▸ Inmatrix ───────────────────────Cybersecurity Symposium
-[EVENT]   ▸ Hackathon 360 ───────────────── 360 Tech Event
-──────────────────────────────────────────────────────────────────────────────
-```
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                     ACHIEVEMENT LOG                         │
+├─────────────────────────────────────────────────────────────┤
+│ 🏆 Cognebula 2025                     │ WINNER             │
+│ 🏆 Forensic Hunt                      │ 1ST PLACE          │
+│ ⭐ HP Power Lab                       │ FINALIST           │
+│ ⭐ PEC Hacks                          │ FINALIST           │
+│ ⭐ Asthra 2K25                        │ FINALIST           │
+├─────────────────────────────────────────────────────────────┤
+│ Projects Built                       │ 7                  │
+│ Events Participated                  │ 20+                │
+│ Competition Wins                     │ 3+                 │
+│ Hackathon Finals                     │ 2                  │
+└─────────────────────────────────────────────────────────────┘
+````
 
 </div>
 
@@ -222,23 +214,24 @@ class SangamithraSSS:
 
 ## ◈ `cat certifications.log`
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  CERTIFICATION LOG  ·  verified: true  ·  count: 10+            │
-├──────────────────────────────────────────────────────────────────┤
-│  2025  Cloud Computing & Distributed Systems ── NPTEL · IIT      │
-│  2025  National Cybersecurity Course ────────── IIT Kharagpur    │
-│  2025  Foundations of Cybersecurity ─────────── Google           │
-│  2025  Cyber Forensics Fundamentals ─────────── Great Learning   │
-│  2024  Cybersecurity Specialization ─────────── EC-Council       │
-│  2024  DSA in Python ────────────────────────── Great Learning   │
-│  2024  Blockchain Fundamentals ──────────────── Sololearn        │
-│  2024  Introduction to SQL ──────────────────── Sololearn        │
-│  2024  Responsive Web Design ────────────────── FreeCodeCamp     │
-│  2024  JavaScript Basics ────────────────────── HackerRank       │
-│  2024  Java Basics ──────────────────────────── HackerRank       │
-└──────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+### 📜 Certifications
+
+| Certification                         | Organization   |
+| ------------------------------------- | -------------- |
+| Foundations of Cybersecurity          | Google         |
+| National Cybersecurity Course         | IIT Kharagpur  |
+| Cloud Computing & Distributed Systems | NPTEL          |
+| Cybersecurity Specialization          | EC-Council     |
+| Cyber Forensics Fundamentals          | Great Learning |
+| DSA in Python                         | Great Learning |
+| Blockchain Fundamentals               | Sololearn      |
+| Introduction to SQL                   | Sololearn      |
+| Responsive Web Design                 | FreeCodeCamp   |
+| JavaScript Basics                     | HackerRank     |
+
+</div>
 
 ---
 
@@ -246,72 +239,42 @@ class SangamithraSSS:
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=Sangamithra-s-s&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=010d09&title_color=00ffcc&icon_color=00ff88&text_color=aaffee&ring_color=00ffcc&custom_title=Sangamithra's+GitHub+Stats" />
-&nbsp;&nbsp;
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamithra-s-s&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=010d09&title_color=00ffcc&text_color=aaffee&custom_title=Most+Used+Languages" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=Sangamithra-s-s&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=010d09&title_color=00ffcc&icon_color=00ff88&text_color=aaffee"/>
+
+  
+
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamithra-s-s&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=010d09&title_color=00ffcc&text_color=aaffee"/>
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sangamithra-s-s&theme=dark&hide_border=true&background=010d09&ring=00ffcc&fire=00ff88&currStreakLabel=00ffcc&sideLabels=00ffcc&dates=88ffcc&stroke=00ffcc30&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sangamithra-s-s&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sangamithra-s-s\&theme=dark\&hide_border=true\&background=010d09\&ring=00ffcc\&fire=00ff88\&currStreakLabel=00ffcc\&sideLabels=00ffcc\&dates=88ffcc\&stroke=00ffcc30\&currStreakNum=ffffff\&sideNums=ffffff)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## ◈ `./contribution-snake.sh`
+## ◈ `connect.sh`
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sangamithra-s-s/Sangamithra-s-s/blob/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sangamithra-s-s/Sangamithra-s-s/blob/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake animation" src="https://github.com/Sangamithra-s-s/Sangamithra-s-s/blob/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
-## ◈ `cat ./now.txt`
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                    ── CURRENT STATUS ──                              ║
-╠════════════════╦═════════════════════════════════════════════════════╣
-║  🔭 BUILDING   ║  BloomFocus · TruthChain · AgriConnect              ║
-║  📚 LEARNING   ║  Advanced Network Security · Web3 · Flutter        ║
-║  🎯 SEEKING    ║  Cybersecurity Internships · Research Roles        ║
-║  💡 EXPLORING  ║  CTFs · Open Source · AI × Security                ║
-║  🤝 OPEN TO    ║  Collaborations · Hackathons · Mentorship          ║
-╚════════════════╩═════════════════════════════════════════════════════╝
+```text
+┌─────────────────────────────────────────────┐
+│ STATUS : OPEN TO OPPORTUNITIES              │
+├─────────────────────────────────────────────┤
+│ ✓ Cyber Security Internships                │
+│ ✓ Research Collaborations                   │
+│ ✓ Open Source Contributions                 │
+│ ✓ Hackathons & Innovation Challenges        │
+└─────────────────────────────────────────────┘
 ```
 
-</div>
+<br>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ffcc?style=for-the-badge\&logo=linkedin\&logoColor=black)](https://www.linkedin.com/in/sangamithra-s-s-2013ab298)
 
-## ◈ `cat quote.txt`
+[![GitHub](https://img.shields.io/badge/GitHub-00ffcc?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/Sangamithra-s-s)
 
-<div align="center">
-
-```
-  ╔════════════════════════════════════════════════════════════════════╗
-  ║                                                                    ║
-  ║   " Security is not a product, but a process. "                   ║
-  ║                                          — Bruce Schneier         ║
-  ║                                                                    ║
-  ║   " I build systems that are secure by design,                    ║
-  ║     not secure by accident. "                                      ║
-  ║                                          — Sangamithra S S        ║
-  ║                                                                    ║
-  ╚════════════════════════════════════════════════════════════════════╝
-```
+[![Email](https://img.shields.io/badge/Email-00ffcc?style=for-the-badge\&logo=gmail\&logoColor=black)](mailto:sangamithrass2006.sm@gmail.com)
 
 </div>
 
@@ -321,6 +284,7 @@ class SangamithraSSS:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a0d,100:003322&height=140&section=footer&text=Open%20to%20Internships%20%C2%B7%20Research%20%C2%B7%20Collaborations&fontSize=16&fontColor=00ffcc&fontAlignY=65&animation=twinkling"/>
 
-**Made with 🖤  by Sangamithra S S · 2026**
+### Made with 🖤 by Sangamithra S S
 
 </div>
+```
