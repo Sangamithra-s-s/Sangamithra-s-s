@@ -193,7 +193,7 @@ class SangamithraSSS:
 
 ```
 [TROPHY]  ★ Cognebula 2025 ─────────────── WINNER    │ Technical Fest
-[TROPHY]  ★ Forensic Hunt ──────────────── 1ST PLACE │ CTF Championship
+[TROPHY]  ★ Forensic Hunt ──────────────── 1ST PLACE │ Technical Fest
 [FINAL]   ◈ HP Power Lab ───────────────── FINALIST  │ Hewlett Packard
 [FINAL]   ◈ PEC Hacks ──────────────────── FINALIST  │ Panimalar Engg College
 [FINAL]   ◈ Asthra 2K25 ────────────────── FINALIST  │ National Symposium
