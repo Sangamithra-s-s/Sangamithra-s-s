@@ -66,7 +66,7 @@ class SangamithraSSS:
     IDENTITY = {
         "name"      : "Sangamithra S S",
         "degree"    : "B.E. CSE — Cyber Security",
-        "college"   : "RMK College of Engineering",
+        "college"   : "RMK College of Engineering and Technology",
         "year"      : "4th Year  ┊  Batch 2023–2027",
         "location"  : "Tamil Nadu, India 🇮🇳",
     }
@@ -90,7 +90,7 @@ class SangamithraSSS:
         "⚡ Hacking  ── Ethical, always",
         "🔗 Building ── TruthChain, BloomFocus",
         "📡 Exploring── CTFs & Web3 Security",
-        "🎯 Seeking  ── Internships & Collabs",
+        "🎯 Seeking  ── Internships & Hackathons",
     ]
 ```
 
@@ -218,24 +218,29 @@ Focus  : Traffic Intelligence
 
 ```text
 [WINNER]     Cognebula 2025
-[1ST PLACE]  Forensic Hunt CTF Championship
-[FINALIST]   HP Power Lab
+[1ST PLACE]  Forensic Hunt 
+[FINALIST]   TN Police hackathon
 [FINALIST]   PEC Hacks
 [FINALIST]   Asthra 2K25
 ```
-
----
-
 ## ◈ `cat certifications.db`
 
 <div align="center">
 
 ### 📜 VERIFIED CERTIFICATIONS
 
+![EC-COUNCIL](https://img.shields.io/badge/Ethical Hacking Essensials-00ffcc?style=for-the-badge)
+
+## ◈ `cat certificates.db`
+
+<div align="center">
+
+### 📜 VERIFIED CERTIFICATES
+
 ![Google](https://img.shields.io/badge/Google-Cybersecurity-00ffcc?style=for-the-badge)
 ![IIT Kharagpur](https://img.shields.io/badge/IIT_Kharagpur-Cybersecurity-00ffcc?style=for-the-badge)
 ![NPTEL](https://img.shields.io/badge/NPTEL-Cloud_Computing-00ffcc?style=for-the-badge)
-![EC Council](https://img.shields.io/badge/EC--Council-Cybersecurity-00ffcc?style=for-the-badge)
+
 
 <br><br>
 
@@ -291,8 +296,6 @@ Focus  : Traffic Intelligence
 ║ READY FOR NEW OPPORTUNITIES          ║
 ╠══════════════════════════════════════╣
 ║ ✓ Cyber Security Internships         ║
-║ ✓ Research Collaborations            ║
-║ ✓ Open Source Contributions          ║
 ║ ✓ Hackathons & Innovation Challenges ║
 ╚══════════════════════════════════════╝
 ```
