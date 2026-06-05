@@ -223,7 +223,7 @@ Focus  : Traffic Intelligence
 [FINALIST]   PEC Hacks
 [FINALIST]   Asthra 2K25
 ```
-```md
+
 ## ◈ `cat certifications.db`
 
 <div align="center">
