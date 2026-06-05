@@ -100,80 +100,89 @@ class SangamithraSSS:
 
 ## ◈ `ls -la ./arsenal`
 
-````md
----
-
 ## ◈ `cat featured_projects.md`
 
 <div align="center">
 
-# 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
 
-Building secure, intelligent, and impactful systems.
+```text
+┌──────────────────────────────────────────────────────────────┐
+│ ACTIVE PROJECTS                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🔐 CRYPSIA
 
-**Blockchain-Powered Supply Chain Security**
+```text
+STATUS : DEPLOYED
+TYPE   : Blockchain Security
+GOAL   : Supply Chain Transparency
+```
 
-- Immutable product tracking
-- QR-based verification
-- Fraud prevention
-- Transparent supply-chain records
-
-**Tech:** Blockchain · Security · Web
+* Immutable ledger tracking
+* QR verification
+* Fraud prevention
+* Product authenticity validation
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 ### ⛓ TRUTHCHAIN
 
-**Decentralized Fact Verification Platform**
+```text
+STATUS : IN DEVELOPMENT
+TYPE   : Web3 + NLP
+GOAL   : Fight Misinformation
+```
 
-- News credibility verification
-- Blockchain-backed records
-- NLP-powered analysis
-- Transparent trust scoring
-
-**Tech:** Blockchain · NLP · Web3
+* Decentralized fact verification
+* Blockchain-backed trust records
+* Credibility scoring
+* Transparent verification process
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🌸 BLOOMFOCUS
 
-**AI Productivity & Wellness App**
+```text
+STATUS : ACTIVE
+TYPE   : AI Wellness Platform
+GOAL   : Student Productivity
+```
 
-- Mood tracking
-- Focus analytics
-- Student wellbeing support
-- Personalized productivity insights
-
-**Tech:** Flutter · AI · Mobile
+* Focus analytics
+* Mood tracking
+* Productivity insights
+* Personalized recommendations
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🌐 TOR-UNVEIL
 
-**Network Forensics & Traffic Analysis**
+```text
+STATUS : RESEARCH
+TYPE   : Network Forensics
+GOAL   : Traffic Intelligence
+```
 
-- Tor traffic inspection
-- PCAP analysis
-- Network intelligence
-- Security research workflows
-
-**Tech:** Python · PCAP · Cybersecurity
+* Tor analysis
+* PCAP inspection
+* Security investigations
+* Traffic fingerprinting
 
 </td>
 </tr>
@@ -181,7 +190,7 @@ Building secure, intelligent, and impactful systems.
 
 <div align="center">
 
-[![View All Projects](https://img.shields.io/badge/View_All_Projects-00ffcc?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sangamithra-s-s?tab=repositories)
+[![View Projects](https://img.shields.io/badge/VIEW_ALL_PROJECTS-00ffcc?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/Sangamithra-s-s?tab=repositories)
 
 </div>
 
@@ -191,45 +200,57 @@ Building secure, intelligent, and impactful systems.
 
 <div align="center">
 
+| 🏆 Competition Wins | ⭐ Hackathon Finals | 🚀 Projects Built | 🎯 Events |
+| :-----------------: | :----------------: | :---------------: | :-------: |
+|          3+         |          2         |         7         |    20+    |
+
+</div>
+
+<br>
+
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                     ACHIEVEMENT LOG                         │
-├─────────────────────────────────────────────────────────────┤
-│ 🏆 Cognebula 2025                     │ WINNER             │
-│ 🏆 Forensic Hunt                      │ 1ST PLACE          │
-│ ⭐ HP Power Lab                       │ FINALIST           │
-│ ⭐ PEC Hacks                          │ FINALIST           │
-│ ⭐ Asthra 2K25                        │ FINALIST           │
-├─────────────────────────────────────────────────────────────┤
-│ Projects Built                       │ 7                  │
-│ Events Participated                  │ 20+                │
-│ Competition Wins                     │ 3+                 │
-│ Hackathon Finals                     │ 2                  │
-└─────────────────────────────────────────────────────────────┘
-````
+[WINNER]    Cognebula 2025
+[1ST PLACE] Forensic Hunt
+[FINALIST]  HP Power Lab
+[FINALIST]  PEC Hacks
+[FINALIST]  Asthra 2K25
+```
+
+---
+
+## ◈ `cat certifications.db`
+
+<div align="center">
+
+### VERIFIED CERTIFICATIONS
+
+![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-00ffcc?style=flat-square)
+![IIT Kharagpur](https://img.shields.io/badge/IIT_Kharagpur-National_Cybersecurity-00ffcc?style=flat-square)
+![NPTEL](https://img.shields.io/badge/NPTEL-Cloud_Computing-00ffcc?style=flat-square)
+![EC Council](https://img.shields.io/badge/EC--Council-Cybersecurity-00ffcc?style=flat-square)
+![Great Learning](https://img.shields.io/badge/Great_Learning-Cyber_Forensics-00ffcc?style=flat-square)
+![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Web_Design-00ffcc?style=flat-square)
 
 </div>
 
 ---
 
-## ◈ `cat certifications.log`
+## ◈ `system_status`
 
 <div align="center">
 
-### 📜 Certifications
-
-| Certification                         | Organization   |
-| ------------------------------------- | -------------- |
-| Foundations of Cybersecurity          | Google         |
-| National Cybersecurity Course         | IIT Kharagpur  |
-| Cloud Computing & Distributed Systems | NPTEL          |
-| Cybersecurity Specialization          | EC-Council     |
-| Cyber Forensics Fundamentals          | Great Learning |
-| DSA in Python                         | Great Learning |
-| Blockchain Fundamentals               | Sololearn      |
-| Introduction to SQL                   | Sololearn      |
-| Responsive Web Design                 | FreeCodeCamp   |
-| JavaScript Basics                     | HackerRank     |
+```text
+┌────────────────────────────────────────────┐
+│ CYBER SECURITY DASHBOARD                   │
+├────────────────────────────────────────────┤
+│ USER        : SANGAMITHRA_S_S              │
+│ ROLE        : SECURITY ENGINEER            │
+│ PROJECTS    : 7                            │
+│ EVENTS      : 20+                          │
+│ WINS        : 3+                           │
+│ STATUS      : OPEN_TO_OPPORTUNITIES        │
+└────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -239,15 +260,15 @@ Building secure, intelligent, and impactful systems.
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=Sangamithra-s-s&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=010d09&title_color=00ffcc&icon_color=00ff88&text_color=aaffee"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sangamithra-s-s&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=010d09&title_color=00ffcc&icon_color=00ff88&text_color=aaffee"/>
 
   
 
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamithra-s-s&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=010d09&title_color=00ffcc&text_color=aaffee"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamithra-s-s&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=010d09&title_color=00ffcc&text_color=aaffee"/>
 
-<br/><br/>
+<br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sangamithra-s-s\&theme=dark\&hide_border=true\&background=010d09\&ring=00ffcc\&fire=00ff88\&currStreakLabel=00ffcc\&sideLabels=00ffcc\&dates=88ffcc\&stroke=00ffcc30\&currStreakNum=ffffff\&sideNums=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sangamithra-s-s\&theme=dark\&hide_border=true\&background=010d09\&ring=00ffcc\&fire=00ff88\&currStreakLabel=00ffcc)](https://git.io/streak-stats)
 
 </div>
 
@@ -258,14 +279,14 @@ Building secure, intelligent, and impactful systems.
 <div align="center">
 
 ```text
-┌─────────────────────────────────────────────┐
-│ STATUS : OPEN TO OPPORTUNITIES              │
-├─────────────────────────────────────────────┤
-│ ✓ Cyber Security Internships                │
-│ ✓ Research Collaborations                   │
-│ ✓ Open Source Contributions                 │
-│ ✓ Hackathons & Innovation Challenges        │
-└─────────────────────────────────────────────┘
+╔══════════════════════════════════════╗
+║ READY FOR NEW OPPORTUNITIES          ║
+╠══════════════════════════════════════╣
+║ ✓ Cyber Security Internships         ║
+║ ✓ Research Collaborations            ║
+║ ✓ Open Source Projects               ║
+║ ✓ Hackathons                         ║
+╚══════════════════════════════════════╝
 ```
 
 <br>
@@ -282,9 +303,13 @@ Building secure, intelligent, and impactful systems.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a0d,100:003322&height=140&section=footer&text=Open%20to%20Internships%20%C2%B7%20Research%20%C2%B7%20Collaborations&fontSize=16&fontColor=00ffcc&fontAlignY=65&animation=twinkling"/>
+```text
+[ SYSTEM SHUTDOWN ]
+Connection closed successfully.
 
-### Made with 🖤 by Sangamithra S S
+Sangamithra S S © 2026
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a0d,100:003322&height=120&section=footer"/>
 
 </div>
-```
