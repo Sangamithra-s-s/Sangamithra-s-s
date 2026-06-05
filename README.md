@@ -19,7 +19,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sara2k6/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangamithrass2006.sm@gmail.com)
 
-![Profile Views](https://komainu8.github.io/github-profile-visitor-count/visitor.svg?page=Sangamithra-s-s&color=00B894)
 
 </div>
 
