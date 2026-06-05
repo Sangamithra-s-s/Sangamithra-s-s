@@ -230,7 +230,7 @@ Focus  : Traffic Intelligence
 
 ### 📜 VERIFIED CERTIFICATIONS
 
-![EC-Council](https://img.shields.io/badge/EC--Council-Ethical_Hacking_Essentials-00ffcc?style=for-the-badge)
+![EC-Council](https://img.shields.io/badge/EC--Council-Ethical_Hacking_Essentials-00B894?style=for-the-badge)
 
 </div>
 ```
