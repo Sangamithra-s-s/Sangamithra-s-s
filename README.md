@@ -96,15 +96,7 @@ class SangamithraSSS:
 
 <br clear="right"/>
 
----
 
----
-
-<div align="center">
-
-<img width="500" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
-
-</div>
 
 ## ◈ `cat featured_projects.md`
 
