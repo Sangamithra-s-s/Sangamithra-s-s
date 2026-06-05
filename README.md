@@ -223,13 +223,18 @@ Focus  : Traffic Intelligence
 [FINALIST]   PEC Hacks
 [FINALIST]   Asthra 2K25
 ```
+```md
 ## ◈ `cat certifications.db`
 
 <div align="center">
 
 ### 📜 VERIFIED CERTIFICATIONS
 
-![EC-COUNCIL](https://img.shields.io/badge/Ethical Hacking Essensials-00ffcc?style=for-the-badge)
+![EC-Council](https://img.shields.io/badge/EC--Council-Ethical_Hacking_Essentials-00ffcc?style=for-the-badge)
+
+</div>
+```
+
 
 ## ◈ `cat certificates.db`
 
