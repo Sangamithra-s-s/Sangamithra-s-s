@@ -136,7 +136,7 @@ Focus  : Product Authenticity
 
 ```yaml
 Status : Active Development
-Stack  : Blockchain · NLP · Web3
+Stack  : React 18 · Vite · Typescript
 Focus  : Misinformation Detection
 ```
 
@@ -157,7 +157,7 @@ Focus  : Misinformation Detection
 
 ```yaml
 Status : Active
-Stack  : Flutter · AI
+Stack  : Extension · Javascript
 Focus  : Student Wellbeing
 ```
 
