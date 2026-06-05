@@ -1,6 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000814,20:001D3D,50:003566,80:001D3D,100:000814&height=280&section=header&text=SANGAMITHRA S S&fontSize=62&fontColor=7DF9FF&animation=twinkling&fontAlignY=38&desc=◈%20Cyber%20Security%20Engineer%20◈%20Builder%20◈%20Hackathon%20Finalist%20◈&descAlignY=60&descSize=15&descColor=E0FFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000814,20:001D3D,50:003566,80:001D3D,100:000814&height=280&section=header&text=SANGAMITHRA%20S%20S&fontSize=62&fontColor=7DF9FF&animation=twinkling&fontAlignY=38&desc=◈%20Cyber%20Security%20Engineer%20◈%20Builder%20◈%20Hackathon%20Finalist%20◈&descAlignY=60&descSize=15&descColor=E0FFFF"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&pause=2000&color=7DF9FF&center=true&vCenter=true&width=950&lines=SARA;SANGAMITHRA+S+S;SARA;SANGAMITHRA+S+S;Cyber+Security+Engineering+Student+%40+RMKCET;4th+Year+%7C+7+Projects+%7C+3%2B+Event+Wins+%7C+2+Hackathon+Finals;Ethical+Hacking+%7C+Network+Security+%7C+Blockchain;Building+Secure%2C+Intelligent+and+Impactful+Systems;MISSION%3A+Turn+Vulnerabilities+Into+Solutions"/>
 
 </div>
 
