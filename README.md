@@ -30,17 +30,17 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
-║    ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗                 ║
-║    ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝                 ║
-║    ██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗                   ║
-║    ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝                   ║
+║    ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗                  ║
+║    ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝                  ║
+║    ██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗                    ║
+║    ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝                    ║
 ║    ██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗                  ║
-║    ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝                 ║
+║    ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝                  ║
 ║                                                                          ║
 ║    NAME     ─── Sangamithra S S                                          ║
 ║    ROLE     ─── Cyber Security Engineering Student                       ║
-║    BASE     ─── RMKCET · B.E. CSE (Cyber Security) · 2024–2028          ║
-║    STATUS   ─── 4th Year · Builder · Open to Opportunities              ║
+║    BASE     ─── RMKCET · B.E. CSE (Cyber Security) · 2023–2027           ║
+║    STATUS   ─── 4th Year · Builder · Open to Opportunities               ║
 ║                                                                          ║
 ║    ┌─────────────┬──────────────┬──────────────┬──────────────┐          ║
 ║    │  7 PROJECTS │ 20+ EVENTS   │  3+ WINS     │  2 FINALS    │          ║
@@ -67,7 +67,7 @@ class SangamithraSSS:
         "name"      : "Sangamithra S S",
         "degree"    : "B.E. CSE — Cyber Security",
         "college"   : "RMK College of Engineering",
-        "year"      : "4th Year  ┊  Batch 2024–2028",
+        "year"      : "4th Year  ┊  Batch 2023–2027",
         "location"  : "Tamil Nadu, India 🇮🇳",
     }
 
@@ -84,7 +84,6 @@ class SangamithraSSS:
         "competitions"    : "20+",
         "event_wins"      : "3+",
         "hackathon_finals": 2,
-        "certifications"  : "10+",
     }
 
     CURRENTLY = [
@@ -285,11 +284,11 @@ class SangamithraSSS:
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                    ── CURRENT STATUS ──                              ║
 ╠════════════════╦═════════════════════════════════════════════════════╣
-║  🔭 BUILDING   ║  BloomFocus · TruthChain · AgriConnect             ║
+║  🔭 BUILDING   ║  BloomFocus · TruthChain · AgriConnect              ║
 ║  📚 LEARNING   ║  Advanced Network Security · Web3 · Flutter        ║
-║  🎯 SEEKING    ║  Cybersecurity Internships · Research Roles         ║
+║  🎯 SEEKING    ║  Cybersecurity Internships · Research Roles        ║
 ║  💡 EXPLORING  ║  CTFs · Open Source · AI × Security                ║
-║  🤝 OPEN TO    ║  Collaborations · Hackathons · Mentorship           ║
+║  🤝 OPEN TO    ║  Collaborations · Hackathons · Mentorship          ║
 ╚════════════════╩═════════════════════════════════════════════════════╝
 ```
 
@@ -322,6 +321,6 @@ class SangamithraSSS:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a0d,100:003322&height=140&section=footer&text=Open%20to%20Internships%20%C2%B7%20Research%20%C2%B7%20Collaborations&fontSize=16&fontColor=00ffcc&fontAlignY=65&animation=twinkling"/>
 
-**Made with 🖤 and `0x00ffcc` by Sangamithra S S · 2025**
+**Made with 🖤  by Sangamithra S S · 2026**
 
 </div>
