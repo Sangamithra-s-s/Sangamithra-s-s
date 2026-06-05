@@ -57,7 +57,7 @@
 <img align="right" width="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="hacking gif"/>
 
 ```python
-#!/usr/bin/env python3
+
 # ─── sangamithra.profile ───────────────────────────────
 
 class SARA:
