@@ -307,13 +307,13 @@ Focus  : Traffic Intelligence
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00ffcc?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/sangamithra-s-s-2013ab298)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00B894?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/sangamithra-s-s-2013ab298)
 
-[![GitHub](https://img.shields.io/badge/GITHUB-00ffcc?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sangamithra-s-s)
+[![GitHub](https://img.shields.io/badge/GITHUB-00B894?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sangamithra-s-s)
 
-[![LeetCode](https://img.shields.io/badge/LEETCODE-00ffcc?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sara2k6/)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-00B894?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sara2k6/)
 
-[![Email](https://img.shields.io/badge/EMAIL-00ffcc?style=for-the-badge&logo=gmail&logoColor=black)](mailto:sangamithrass2006.sm@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-00B894?style=for-the-badge&logo=gmail&logoColor=black)](mailto:sangamithrass2006.sm@gmail.com)
 
 </div>
 
