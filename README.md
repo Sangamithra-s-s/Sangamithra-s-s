@@ -59,6 +59,9 @@
 </div>
 
 ---
+<div align="center">
+<img width="320" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+</div>
 
 ## ◈ `whoami`
 
