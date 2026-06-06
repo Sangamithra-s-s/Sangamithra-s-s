@@ -352,14 +352,13 @@ Focus  : Traffic Intelligence
 
 <div align="center">
 
-```text
 ╔══════════════════════════════════════╗
 ║ READY FOR NEW OPPORTUNITIES          ║
 ╠══════════════════════════════════════╣
 ║ ✓ Cyber Security Internships         ║
 ║ ✓ Hackathons & Innovation Challenges ║
 ╚══════════════════════════════════════╝
-````
+
 
 <br>
 
@@ -382,7 +381,7 @@ Focus  : Traffic Intelligence
 </p>
 
 </div>
-```
+
 
 
 
@@ -394,5 +393,5 @@ Focus  : Traffic Intelligence
 ### ⚡ Security • Innovation • Collaboration
 
 </div>
-```
+
 
