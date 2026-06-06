@@ -1,35 +1,50 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,30:0A1128,60:001F54,100:020617&height=280&section=header&text=SANGAMITHRA%20S%20S&fontSize=62&fontColor=7DF9FF&animation=twinkling&fontAlignY=38&desc=◈%20Cyber%20Security%20Engineer%20◈%20Builder%20◈%20Hackathon%20Finalist%20◈&descAlignY=60&descSize=15&descColor=B8F3FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:0A1128,60:001F54,100:003566&text=SANGAMITHRA%20S%20S&fontSize=65&fontColor=7DF9FF&fontAlignY=40&animation=fadeIn&desc=◈%20Cyber%20Security%20Engineer%20◈%20Builder%20◈%20Hackathon%20Finalist%20◈&descAlignY=62&descColor=B8F3FF&descSize=16"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=17&pause=2000&color=7DF9FF&center=true&vCenter=true&width=950&lines=SARA;SANGAMITHRA+S+S;SARA;SANGAMITHRA+S+S;Cyber+Security+Engineering+Student+%40+RMKCET;4th+Year+%7C+7+Projects+%7C+3%2B+Event+Wins+%7C+2+Hackathon+Finals;Ethical+Hacking+%7C+Network+Security+%7C+Blockchain;Building+Secure%2C+Intelligent+and+Impactful+Systems;MISSION%3A+Turn+Vulnerabilities+Into+Solutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=18&pause=1800&color=7DF9FF&center=true&vCenter=true&width=950&lines=SARA;Cyber+Security+Engineering+Student+%40+RMKCET;4th+Year+%7C+7+Projects+%7C+3%2B+Wins+%7C+2+Hackathon+Finals;Ethical+Hacking+%7C+Network+Security+%7C+Blockchain;Building+Secure%2C+Intelligent+and+Impactful+Systems"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1000&color=7DF9FF&center=true&vCenter=true&width=750&lines=%5BSYSTEM+ONLINE%5D+Initialising+profile...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%3E+Cyber+Security+Engineering+Student+%40+RMKCET;%3E+4th+Year+%7C+7+Projects+%7C+3%2B+Event+Wins+%7C+2+Hackathon+Finals;%3E+Ethical+Hacking+%7C+Network+Security+%7C+Blockchain;%3E+Building+secure%2C+intelligent%2C+impactful+systems_;%3E+MISSION%3A+Turn+vulnerabilities+into+solutions_%E2%96%8C" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1000&color=B8F3FF&center=true&vCenter=true&width=850&lines=%5BSYSTEM+ONLINE%5D+Profile+Loaded+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%3E+Cyber+Security+Engineering;%3E+Ethical+Hacking+%7C+Blockchain+%7C+Network+Security;%3E+MISSION%3A+Turn+Vulnerabilities+Into+Solutions"/>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-001F54?style=for-the-badge&logo=linkedin&logoColor=7DF9FF)](https://www.linkedin.com/in/sangamithra-s-s-2013ab298)
+<a href="https://www.linkedin.com/in/sangamithra-s-s-2013ab298">
+<img src="https://img.shields.io/badge/LinkedIn-001F54?style=for-the-badge&logo=linkedin&logoColor=7DF9FF"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=7DF9FF)](https://github.com/Sangamithra-s-s)
+<a href="https://github.com/Sangamithra-s-s">
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=7DF9FF"/>
+</a>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-001F54?style=for-the-badge&logo=leetcode&logoColor=7DF9FF)](https://leetcode.com/u/sara2k6/)
+<a href="https://leetcode.com/u/sara2k6/">
+<img src="https://img.shields.io/badge/LeetCode-001F54?style=for-the-badge&logo=leetcode&logoColor=7DF9FF"/>
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-001F54?style=for-the-badge&logo=gmail&logoColor=7DF9FF)](mailto:sangamithrass2006.sm@gmail.com)
+<a href="mailto:sangamithrass2006.sm@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-001F54?style=for-the-badge&logo=gmail&logoColor=7DF9FF"/>
+</a>
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sangamithra-s-s&label=PROFILE+VIEWS&color=001F54&style=for-the-badge"/>
+
+</div>
 ---
 
 <div align="center">
