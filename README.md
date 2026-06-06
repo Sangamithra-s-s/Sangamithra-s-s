@@ -45,7 +45,7 @@
 <img src="https://komarev.com/ghpvc/?username=Sangamithra-s-s&label=PROFILE+VIEWS&color=001F54&style=for-the-badge"/>
 
 </div>
----
+
 
 <div align="center">
 
@@ -317,7 +317,7 @@ Focus  : Traffic Intelligence
 </div>
 ```
 
----
+
 
 <div align="center">
 
@@ -383,7 +383,7 @@ Focus  : Traffic Intelligence
 </p>
 
 </div>
-```
+
 
 
 ---
