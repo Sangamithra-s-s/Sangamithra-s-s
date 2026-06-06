@@ -325,23 +325,24 @@ Focus  : Traffic Intelligence
 
 </div>
 
+````md
 ## ◈ `git log --stat --oneline`
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=Sangamithra-s-s&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=010d09&title_color=00ffcc&icon_color=00ff88&text_color=aaffee"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=Sangamithra-s-s&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=7DF9FF&icon_color=4FC3F7&text_color=B8F3FF"/>
 
 &nbsp;&nbsp;
 
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamithra-s-s&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=010d09&title_color=00ffcc&text_color=aaffee"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamithra-s-s&layout=compact&hide_border=true&bg_color=020617&title_color=7DF9FF&text_color=B8F3FF"/>
 
 <br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sangamithra-s-s&theme=dark&hide_border=true&background=010d09&ring=00ffcc&fire=00ff88&currStreakLabel=00ffcc&sideLabels=00ffcc&dates=88ffcc)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sangamithra-s-s&hide_border=true&background=020617&ring=7DF9FF&fire=4FC3F7&currStreakLabel=7DF9FF&sideLabels=B8F3FF&dates=B8F3FF)](https://git.io/streak-stats)
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sangamithra-s-s&theme=github-compact&bg_color=010d09&color=00ffcc&line=00ffcc&point=00ff88&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sangamithra-s-s&bg_color=020617&color=7DF9FF&line=4FC3F7&point=B8F3FF&hide_border=true"/>
 
 </div>
 
@@ -358,17 +359,17 @@ Focus  : Traffic Intelligence
 ║ ✓ Cyber Security Internships         ║
 ║ ✓ Hackathons & Innovation Challenges ║
 ╚══════════════════════════════════════╝
-```
+````
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00B894?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/sangamithra-s-s-2013ab298)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-001F54?style=for-the-badge\&logo=linkedin\&logoColor=7DF9FF)](https://www.linkedin.com/in/sangamithra-s-s-2013ab298)
 
-[![GitHub](https://img.shields.io/badge/GITHUB-00B894?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Sangamithra-s-s)
+[![GitHub](https://img.shields.io/badge/GITHUB-020617?style=for-the-badge\&logo=github\&logoColor=7DF9FF)](https://github.com/Sangamithra-s-s)
 
-[![LeetCode](https://img.shields.io/badge/LEETCODE-00B894?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sara2k6/)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-001F54?style=for-the-badge\&logo=leetcode\&logoColor=7DF9FF)](https://leetcode.com/u/sara2k6/)
 
-[![Email](https://img.shields.io/badge/EMAIL-00B894?style=for-the-badge&logo=gmail&logoColor=black)](mailto:sangamithrass2006.sm@gmail.com)
+[![EMAIL](https://img.shields.io/badge/EMAIL-001F54?style=for-the-badge\&logo=gmail\&logoColor=7DF9FF)](mailto:sangamithrass2006.sm@gmail.com)
 
 </div>
 
@@ -376,8 +377,10 @@ Focus  : Traffic Intelligence
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a0d,100:003322&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0A1128,100:001F54&height=140&section=footer"/>
 
 ### ⚡ Security • Innovation • Collaboration
 
 </div>
+```
+
