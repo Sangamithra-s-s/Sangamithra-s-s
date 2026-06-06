@@ -351,14 +351,14 @@ Focus  : Traffic Intelligence
 ## ◈ `connect.sh`
 
 <div align="center">
-
+```text
 ╔══════════════════════════════════════╗
 ║ READY FOR NEW OPPORTUNITIES          ║
 ╠══════════════════════════════════════╣
 ║ ✓ Cyber Security Internships         ║
 ║ ✓ Hackathons & Innovation Challenges ║
 ╚══════════════════════════════════════╝
-
+```
 
 <br>
 
