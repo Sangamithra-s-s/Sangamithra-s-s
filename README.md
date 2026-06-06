@@ -283,39 +283,39 @@ Focus  : Traffic Intelligence
 
 <div align="center">
 
-### 📜 VERIFIED CERTIFICATIONS
+### 🛡️ VERIFIED CERTIFICATIONS
 
-![EC-Council](https://img.shields.io/badge/EC--Council-Ethical_Hacking_Essentials-00B894?style=for-the-badge)
+<img src="https://img.shields.io/badge/EC--Council-Ethical_Hacking_Essentials-001F54?style=for-the-badge&logoColor=7DF9FF"/>
 
 </div>
-```
 
+---
 
-## ◈ `cat certificates.db`
+## ◈ `ls certificates/`
 
 <div align="center">
 
-### 📜 VERIFIED CERTIFICATES
+### 📂 CERTIFICATE ARCHIVE
 
-![Google](https://img.shields.io/badge/Google-Cybersecurity-00B894?style=for-the-badge)
-![IIT Kharagpur](https://img.shields.io/badge/IIT_Kharagpur-Cybersecurity-00B894?style=for-the-badge)
-![NPTEL](https://img.shields.io/badge/NPTEL-Cloud_Computing-00B894?style=for-the-badge)
-
-
-<br><br>
-
-![Great Learning](https://img.shields.io/badge/Great_Learning-Cyber_Forensics-00B894?style=for-the-badge)
-![Great Learning](https://img.shields.io/badge/Great_Learning-DSA_Python-00B894?style=for-the-badge)
-![Sololearn](https://img.shields.io/badge/Sololearn-Blockchain-00B894?style=for-the-badge)
-![Sololearn](https://img.shields.io/badge/Sololearn-SQL-00B894?style=for-the-badge)
+<img src="https://img.shields.io/badge/Google-Cybersecurity-0A1128?style=for-the-badge&logo=google&logoColor=7DF9FF"/>
+<img src="https://img.shields.io/badge/IIT_Kharagpur-Cybersecurity-0A1128?style=for-the-badge&logoColor=7DF9FF"/>
+<img src="https://img.shields.io/badge/NPTEL-Cloud_Computing-0A1128?style=for-the-badge&logoColor=7DF9FF"/>
 
 <br><br>
 
-![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Responsive_Web_Design-00B894?style=for-the-badge)
-![HackerRank](https://img.shields.io/badge/HackerRank-JavaScript-00B894?style=for-the-badge)
-![HackerRank](https://img.shields.io/badge/HackerRank-Java-00B894?style=for-the-badge)
+<img src="https://img.shields.io/badge/Great_Learning-Cyber_Forensics-001F54?style=for-the-badge&logoColor=7DF9FF"/>
+<img src="https://img.shields.io/badge/Great_Learning-DSA_Python-001F54?style=for-the-badge&logoColor=7DF9FF"/>
+<img src="https://img.shields.io/badge/Sololearn-Blockchain-001F54?style=for-the-badge&logo=sololearn&logoColor=7DF9FF"/>
+<img src="https://img.shields.io/badge/Sololearn-SQL-001F54?style=for-the-badge&logo=sololearn&logoColor=7DF9FF"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FreeCodeCamp-Responsive_Web_Design-0A1128?style=for-the-badge&logo=freecodecamp&logoColor=7DF9FF"/>
+<img src="https://img.shields.io/badge/HackerRank-JavaScript-0A1128?style=for-the-badge&logo=hackerrank&logoColor=7DF9FF"/>
+<img src="https://img.shields.io/badge/HackerRank-Java-0A1128?style=for-the-badge&logo=hackerrank&logoColor=7DF9FF"/>
 
 </div>
+```
 
 ---
 
