@@ -62,10 +62,11 @@
 
 ## ◈ `whoami`
 
-<img align="right" width="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="hacking gif"/>
+<table>
+<tr>
+<td width="78%">
 
 ```python
-
 # ─── sangamithra.profile ───────────────────────────────
 
 class SARA:
@@ -74,16 +75,13 @@ class SARA:
         "name"      : "Sangamithra S S",
         "degree"    : "B.E. CSE — Cyber Security",
         "college"   : "RMK College of Engineering and Technology",
-        "year"      : "4th Year  ┊  Batch 2023–2027",
+        "year"      : "4th Year ┊ Batch 2023–2027",
         "location"  : "Tamil Nadu, India 🇮🇳",
     }
 
     MISSION = """
         Passionate about building SECURE, INTELLIGENT,
-        and IMPACTFUL digital solutions. I explore
-        emerging tech, solve real-world problems, and
-        thrive in collaborative environments.
-        Adaptable · Curious · Driven.
+        and IMPACTFUL digital solutions.
     """
 
     ACHIEVEMENTS = {
@@ -92,13 +90,45 @@ class SARA:
         "event_wins"      : "3+",
         "hackathon_finals": 2,
     }
+```
 
-    CURRENTLY = [
-        "⚡ Hacking  ── Ethical, always",
-        "🔗 Building ── TruthChain, BloomFocus",
-        "📡 Exploring── CTFs & Web3 Security",
-        "🎯 Seeking  ── Internships & Hackathons",
-    ]
+</td>
+
+<td align="center" valign="top">
+
+```text
+██████╗
+██╔════╝
+╚█████╗
+ ╚═══██╗
+██████╔╝
+╚═════╝
+
+ █████╗
+██╔══██╗
+███████║
+██╔══██║
+██║  ██║
+╚═╝  ╚═╝
+
+██████╗
+██╔══██╗
+██████╔╝
+██╔══██╗
+██║  ██║
+╚═╝  ╚═╝
+
+ █████╗
+██╔══██╗
+███████║
+██╔══██║
+██║  ██║
+╚═╝  ╚═╝
+```
+
+</td>
+</tr>
+</table>
 ```
 
 <br clear="right"/>
