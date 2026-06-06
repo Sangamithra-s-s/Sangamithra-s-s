@@ -326,7 +326,7 @@ Focus  : Traffic Intelligence
 </div>
 
 
-````md
+
 ## ◈ `git log --stat --oneline`
 
 <div align="center">
@@ -364,15 +364,27 @@ Focus  : Traffic Intelligence
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-001F54?style=for-the-badge\&logo=linkedin\&logoColor=7DF9FF)](https://www.linkedin.com/in/sangamithra-s-s-2013ab298)
 
-[![GitHub](https://img.shields.io/badge/GITHUB-020617?style=for-the-badge\&logo=github\&logoColor=7DF9FF)](https://github.com/Sangamithra-s-s)
+<div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LEETCODE-001F54?style=for-the-badge\&logo=leetcode\&logoColor=7DF9FF)](https://leetcode.com/u/sara2k6/)
-
-[![EMAIL](https://img.shields.io/badge/EMAIL-001F54?style=for-the-badge\&logo=gmail\&logoColor=7DF9FF)](mailto:sangamithrass2006.sm@gmail.com)
+<p>
+<a href="https://www.linkedin.com/in/sangamithra-s-s-2013ab298">
+<img src="https://img.shields.io/badge/LINKEDIN-001F54?style=for-the-badge&logo=linkedin&logoColor=7DF9FF"/>
+</a>
+<a href="https://github.com/Sangamithra-s-s">
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=7DF9FF"/>
+</a>
+<a href="https://leetcode.com/u/sara2k6/">
+<img src="https://img.shields.io/badge/LEETCODE-001F54?style=for-the-badge&logo=leetcode&logoColor=7DF9FF"/>
+</a>
+<a href="mailto:sangamithrass2006.sm@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-001F54?style=for-the-badge&logo=gmail&logoColor=7DF9FF"/>
+</a>
+</p>
 
 </div>
+```
+
 
 ---
 
