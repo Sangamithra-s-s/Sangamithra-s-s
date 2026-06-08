@@ -54,7 +54,7 @@
 </a>
 
 </div>
-```
+
 
 
 <br>
@@ -350,11 +350,7 @@ Focus  : Traffic Intelligence
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=Sangamithra-s-s&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=7DF9FF&icon_color=4FC3F7&text_color=B8F3FF"/>
 
-&nbsp;&nbsp;
-
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamithra-s-s&layout=compact&hide_border=true&bg_color=020617&title_color=7DF9FF&text_color=B8F3FF"/>
 
 <br><br>
 
