@@ -18,6 +18,7 @@
 
 <br>
 
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sangamithra-s-s-2013ab298">
@@ -32,11 +33,17 @@
 <img src="https://img.shields.io/badge/LeetCode-001F54?style=for-the-badge&logo=leetcode&logoColor=7DF9FF"/>
 </a>
 
+<a href="https://sangamithra-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-003566?style=for-the-badge&logo=googlechrome&logoColor=7DF9FF"/>
+</a>
+
 <a href="mailto:sangamithrass2006.sm@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-001F54?style=for-the-badge&logo=gmail&logoColor=7DF9FF"/>
 </a>
 
 </div>
+```
+
 
 <br>
 
