@@ -345,22 +345,29 @@ Focus  : Traffic Intelligence
 </div>
 
 
-
 ## ◈ `git log --stat --oneline`
 
 <div align="center">
 
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=Sangamithra-s-s&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=7DF9FF&icon_color=4FC3F7&text_color=E6FBFF"/>
 
+&nbsp;&nbsp;
+
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangamithra-s-s&layout=compact&hide_border=true&bg_color=020617&title_color=7DF9FF&text_color=E6FBFF"/>
 
 <br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sangamithra-s-s&hide_border=true&background=020617&ring=7DF9FF&fire=4FC3F7&currStreakLabel=7DF9FF&sideLabels=B8F3FF&dates=B8F3FF)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=Sangamithra-s-s&hide_border=true&background=020617&ring=7DF9FF&fire=4FC3F7&currStreakLabel=7DF9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=E6FBFF&dates=E6FBFF"/>
+</a>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sangamithra-s-s&bg_color=020617&color=7DF9FF&line=4FC3F7&point=B8F3FF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sangamithra-s-s&bg_color=020617&color=E6FBFF&line=4FC3F7&point=7DF9FF&hide_border=true"/>
 
 </div>
+```
+
 
 ---
 
