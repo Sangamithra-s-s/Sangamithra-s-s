@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:0A1128,60:001F54,100:003566&text=SANGAMITHRA%20S%20S&fontSize=65&fontColor=7DF9FF&fontAlignY=40&animation=fadeIn&desc=◈%20Cyber%20Security%20Engineer%20◈%20Builder%20◈%20Hackathon%20Finalist%20◈&descAlignY=62&descColor=B8F3FF&descSize=16"/>
