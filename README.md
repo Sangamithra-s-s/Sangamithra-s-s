@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1500&color=7DF9FF&center=true&vCenter=true&width=800&lines=SARA;SANGAMITHRA+S+S;SARA+%E2%86%94+SANGAMITHRA"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1500&color=7DF9FF&center=true&vCenter=true&width=800&lines=SARA;SANGAMITHRA+S+S"/>
 
 </div>
 
