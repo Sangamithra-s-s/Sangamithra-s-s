@@ -6,7 +6,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&pause=1500&color=7DF9FF&center=true&vCenter=true&width=800&lines=SARA+%E2%97%88+SANGAMITHRA+S+S" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1500&color=7DF9FF&center=true&vCenter=true&width=800&lines=SARA;SANGAMITHRA+S+S"/>
+
 
 </div>
 
