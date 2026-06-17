@@ -216,16 +216,16 @@ Impact : Advancing cyber investigations
 </div>
 
 <br/>
-
+ 
 ```text
 ╔══════════════════════════════════════════════════════╗
 ║                  ACHIEVEMENT LOG                     ║
 ╠══════════════════════════════════════════════════════╣
-║  ✅  [WINNER]     Cognebula                  · 2025  ║
-║  🥇  [1ST PLACE]  Forensic Hunt              · ———   ║
-║  🏁  [FINALIST]   TN Police Hackathon        · ———   ║
-║  🏁  [FINALIST]   PEC Hacks                  · ———   ║
-║  🏁  [FINALIST]   Asthra 2K25                · 2025  ║
+║  🥇  [1ST PLACE]  Forensic Hunt              · 2025  ║
+║  ✅  [3RD PLACE]  Tackle The Code            · 2025  ║
+║  🏁  [FINALIST]   TN Police Hackathon        · 2025  ║
+║  🏁  [FINALIST]   PEC Hacks                  · 2025  ║
+║  🥇  [1st PLACE]  Stellar Metaverse          · 2026  ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
