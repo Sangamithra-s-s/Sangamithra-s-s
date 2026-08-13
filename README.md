@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0A0A0F,25:1A0B2E,60:2D0B4E,100:00121A&text=SANGAMITHRA%20S%20S&fontSize=58&fontColor=00FFF2&fontAlignY=38&animation=fadeIn&desc=Cyber%20Security%20Engineer%20//%20Frontend%20Developer%20//%20Builder&descAlignY=58&descColor=C77DFF&descSize=15"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0A0A0F,25:1A0B2E,60:2D0B4E,100:00121A&text=SANGAMITHRA%20S%20S&fontSize=58&fontColor=00FFF2&fontAlignY=38&animation=twinkling&desc=Cyber%20Security%20Engineer%20//%20Frontend%20Developer%20//%20Builder&descAlignY=58&descColor=C77DFF&descSize=15"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=800&color=00FFF2&center=true&vCenter=true&width=850&repeat=false&lines=%5BBOOT%5D+initializing+profile...;%5BBOOT%5D+loading+modules%3A+security%2C+frontend%2C+blockchain...;%5BOK%5D+profile+loaded" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&pause=1600&color=00FFF2&center=true&vCenter=true&width=750&lines=SARA;SANGAMITHRA+S+S" />
 
@@ -22,7 +24,7 @@
 
 <br/>
 
-## `whoami`
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1200&color=00FFF2&center=true&vCenter=true&width=300&repeat=false&lines=%3E+whoami" />
 
 ```python
 class Sara:
@@ -45,7 +47,7 @@ class Sara:
 
 <br/>
 
-## `cat achievements.log`
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1200&color=00FFF2&center=true&vCenter=true&width=420&repeat=false&lines=%3E+cat+achievements.log" />
 
 ```text
 ╔══════════════════════════════════════════════════════╗
@@ -59,7 +61,7 @@ class Sara:
 
 <br/>
 
-## `ls featured_projects/`
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1200&color=00FFF2&center=true&vCenter=true&width=430&repeat=false&lines=%3E+ls+featured_projects%2F" />
 
 <table>
 <tr>
@@ -116,7 +118,7 @@ PCAP-based Tor traffic inspection and fingerprinting built for real security inv
 
 <br/>
 
-## `ls skills/`
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1200&color=00FFF2&center=true&vCenter=true&width=280&repeat=false&lines=%3E+ls+skills%2F" />
 
 <table>
 <tr>
@@ -159,7 +161,9 @@ PCAP-based Tor traffic inspection and fingerprinting built for real security inv
 
 <br/>
 
-## `cat certifications.db`
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1200&color=00FFF2&center=true&vCenter=true&width=420&repeat=false&lines=%3E+cat+certifications.db" />
+</div>
 
 <div align="center">
 
@@ -175,9 +179,15 @@ PCAP-based Tor traffic inspection and fingerprinting built for real security inv
 
 <br/>
 
-## `git log --stat`
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1200&color=00FFF2&center=true&vCenter=true&width=340&repeat=false&lines=%3E+git+log+--stat" />
+</div>
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/Sangamithra-s-s/Sangamithra-s-s/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Sangamithra-s-s&hide_border=true&background=0A0A0F&ring=00FFF2&fire=C77DFF&currStreakLabel=00FFF2&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C77DFF&dates=C77DFF"/>
 
@@ -195,9 +205,8 @@ PCAP-based Tor traffic inspection and fingerprinting built for real security inv
 
 <br/>
 
-## `connect.sh`
-
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1200&color=00FFF2&center=true&vCenter=true&width=280&repeat=false&lines=%3E+connect.sh" />
 
 ```text
 ┌────────────────────────────────────────┐
@@ -214,6 +223,6 @@ PCAP-based Tor traffic inspection and fingerprinting built for real security inv
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00121A,50:2D0B4E,100:0A0A0F&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00121A,50:2D0B4E,100:0A0A0F&height=120&section=footer&animation=twinkling"/>
 
 </div>
